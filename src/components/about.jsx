@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a Full Stack Software Engineer with the UI background of HTML, CSS, JS, JavaScript, Jquery, Angular, React, Primefaces, Spring MVC, JSF MVC for UI and Java, Spring Boot, Ibatis, HIbernate, Spring WebFlow, for Backend.</p>
+                    <p>I am a Full Stack Software Engineer with the UI background of HTML, CSS, JS, JavaScript, Jquery, Angular, React, Primefaces, Spring MVC, JSF MVC and Java, Spring Boot, Ibatis, HIbernate, Spring WebFlow, for Backend.</p>
                     </div>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building UI for web application using JavaScript, React, Angular, Primefaces, HTML, CSS</p>
+                    <p>I have experienced building UI for web application using JavaScript, React, Angular, Primefaces, HTML, CSS</p>
                 </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Spring</h3>
-                    <p>I have a good understanding of Spring Framwork: Spring MVC, Spring Boot, Spring WebFlow, Spring Security.</p>
+                    <p>I have a good background in Spring Framwork: Spring MVC, Spring Boot, Spring WebFlow, Spring Security.</p>
                 </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Oracle</h3>
-                    <p>I have solid knowledge in Oracle relational database.</p>
+                    <p>I have solid knowledge in Oracle relational database as well as NoSql database like MongoDB.</p>
                 </div>
                 </div>
             </div>
